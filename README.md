@@ -1,3 +1,3 @@
-National Communications Software Security Laboratory (NCSS Lab) Gitlab Page
+National Communications Software Security Laboratory (NCSS Lab) GitHub Page
 ------
-MCSS Lab Gitlab page.  
+MCSS Lab GitHub page.  
