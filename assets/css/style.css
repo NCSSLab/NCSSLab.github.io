@@ -408,6 +408,13 @@ h6 {
   font-size: 24px;
 }
 
+#hero h6 {
+  color: rgba(255, 101, 80, 0.925);
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+
+
 #hero .btn-get-started {
   font-family: "Jost", sans-serif;
   font-weight: 500;
@@ -594,7 +601,7 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 600;
-  font-size: 26px;
+  font-size: 24px;
 }
 
 .about .content ul {
@@ -784,7 +791,7 @@ section {
   color: #37517e;
   font-family: "Poppins", sans-serif;
 }
-
+ 
 .skills .content ul {
   list-style: none;
   padding: 0;
